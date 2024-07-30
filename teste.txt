@@ -1,0 +1,6 @@
+#quero testar um pull pelo bitbucket
+#teste novo de push 
+#mais teste de pull so que sem o -force agora
+#teste 2
+
+
